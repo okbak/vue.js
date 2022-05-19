@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_js"]=self["webpackChunkvue_js"]||[]).push([[843],{843:function(n,u,e){e.r(u),e.d(u,{default:function(){return p}});var s=e(252);const t={class:"input"},r=(0,s._)("h1",null,"This is an input page",-1),i=[r];function a(n,u){return(0,s.wg)(),(0,s.iD)("div",t,i)}var c=e(744);const f={},l=(0,c.Z)(f,[["render",a]]);var p=l}}]);
+//# sourceMappingURL=843.2a90d0c0.js.map
