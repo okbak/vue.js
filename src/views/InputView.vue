@@ -7,4 +7,7 @@
     <input v-model="message" placeholder="y" />
     <p>Введённое сообщение: {{ message }}</p>
   </div>
+      <input v-model="message" placeholder="z" />
+    <p>Введённое сообщение: {{ message }}</p>
+  </div>
 </template>
